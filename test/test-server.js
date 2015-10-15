@@ -1,5 +1,7 @@
 process.env.NODE_ENV = 'test';
 
+var weeeeeeIAmForTesting = 'FOR SCIENCE';
+
 var chai = require('chai');
 var chaiHttp = require('chai-http');
 var mongoose = require("mongoose");
